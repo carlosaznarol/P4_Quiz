@@ -1,0 +1,23 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Proyecto Quiz",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quiz",
+    "core",
+    "node"
+  ],
+  "author": "carlosaznarol",
+  "license": "Unlicense",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "figlet": "^1.2.0",
+    "sequelize": "^4.35.5",
+    "sqlite3": "^3.1.13"
+  }
+}
